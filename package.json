@@ -8,12 +8,23 @@
     "marked": "^14.0.0",
     "node-html-parser": "^6.1.13"
   },
-  "homepage": "https://darsan.in",
-  "description": "[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.] ",
+  "homepage": "https://www.npmjs.com/package/handstop",
+  "description": "This repository demonstrates Handstop, a video encoding library developed for Node.js. It showcases the capabilities of Handstop in efficiently encoding videos, making it suitable for various media processing tasks.",
   "keywords": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "video-encoding",
+    "node.js",
+    "handstop-library",
+    "media-processing",
+    "video-formats",
+    "video-resolution",
+    "high-performance",
+    "open-source",
+    "api-integration",
+    "node-js-library",
+    "video-processing",
+    "media-services",
+    "customizable-encoding",
+    "web-applications",
+    "mobile-optimization"
   ]
 }
